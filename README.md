@@ -152,6 +152,7 @@ Project Link: [https://github.com/cifertech/TamaFi](https://github.com/cifertech
 **The libraries and projects listed below are used in this software:**
  - [Mecha-Stone Golem](https://darkpixel-kronovi.itch.io/mecha-golem-free)
  - [Fantasy Wooden GUI](https://kanekizlf.itch.io/fantasy-wooden-gui-free)
+ - [MyPixelWorld](https://scarloxy.itch.io/mpwsp01)
  - [Transparent Sprites](https://github.com/VolosR/SpritesTuT)
 
 
