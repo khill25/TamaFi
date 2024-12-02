@@ -31,7 +31,7 @@
 
 ## 📖 Explore the Full Documentation
 
-Ready to dive deeper into TamaFi's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/nrfbox-your-all-in-one-gadget-for-ble-and-2-4ghz-networks/). Click the link and explore further!
+Ready to dive deeper into TamaFi's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/tamafi-reviving-the-classic-virtual-pet-with-a-tech-twist/). Click the link and explore further!
   
 <div>&nbsp;</div>
 
