@@ -76,7 +76,7 @@ TamaFi is a work-in-progress and has room for improvement. While it’s function
     </tr>
     <tr>
       <td>Wi-Fi Feeding</td>
-      <td>⚠ Stable</td>
+      <td>🚧 In Progress</td>
       <td>Detects nearby networks and feeds the pet.</td>
     </tr>
     <tr>
